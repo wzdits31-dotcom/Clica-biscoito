@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Biscoito Farm Click",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Jogo click",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Jogo criado em HTML."
+}
